@@ -36,7 +36,7 @@ print(xtable(tableX), include.colnames=FALSE,floating=FALSE, type="html")
 Find all cases of X>2.1, then add up their probabilities.
 
 *** .explanation
-1. <span class="answer">`r sum(fx[x>2.1])`</span>
+1. <span class="answer"> `r sum(fx[x>2.1])`</span>
 
 This is a discrete random variable. So you need to find the cases for X>1.5, and add up the probabilities of those cases. 
 

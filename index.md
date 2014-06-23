@@ -20,7 +20,7 @@ f(x)=0.3 for x=1,4 and f(x)=0.2 for x=2,3.
 That is, the pdf is represented in the following table.
 
 <!-- html table generated in R 3.0.3 by xtable 1.7-3 package -->
-<!-- Thu Jun 19 00:30:31 2014 -->
+<!-- Sun Jun 22 21:28:33 2014 -->
 <TABLE border=1>
   <TR> <TD align="right"> x </TD> <TD> 1 </TD> <TD> 2 </TD> <TD> 3 </TD> <TD> 4 </TD> </TR>
   <TR> <TD align="right"> f(x) </TD> <TD> 0.3 </TD> <TD> 0.2 </TD> <TD> 0.2 </TD> <TD> 0.3 </TD> </TR>
@@ -33,7 +33,7 @@ That is, the pdf is represented in the following table.
 Find all cases of X>2.1, then add up their probabilities.
 
 *** .explanation
-1. <span class="answer">0.5</span>
+1. <span class="answer"> 0.5</span>
 
 This is a discrete random variable. So you need to find the cases for X>1.5, and add up the probabilities of those cases. 
 
